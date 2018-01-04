@@ -1,0 +1,28 @@
+
+
+Homework One: Analysis of Merge Sort and Insertion Sort Algorithms
+Author: Benjamin Fondell
+Date: 7/2/2017
+
+Include data.txt:
+
+    With data.txt included at same path, both python programs will
+    reference the file and produce the appropriately named output.
+
+Compile and Run insertsort.py:
+
+    script:
+
+        chmod +x insertsort.py [enter]
+
+        python ./insertsort.py [enter]
+
+Compile and Run mergesort.py:
+
+    script:
+
+        chmod +x mergesort.py [enter]
+
+        python ./mergesort.py [enter]
+
+

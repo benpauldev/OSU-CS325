@@ -1,0 +1,22 @@
+
+
+Homework Three: Analysis of DP Chane Algorithm
+Author: Benjamin Fondell
+Date: 7/16/2017
+
+Include amount.txt:
+
+    With amount.txt included at same path, the python program will
+    reference the file and produce the appropriately named output, change.txt.
+
+Compile and Run stoogesort.py:
+
+    script:
+
+        chmod +x change.py [enter]
+
+        python ./change.py [enter]
+
+
+
+
